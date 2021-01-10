@@ -1,0 +1,13 @@
+@import "../../scss/varibles.scss";
+
+.input-side {
+  .input {
+    border: 3px solid $melon;
+    height: 38px;
+    border-radius: 5px;
+    background: $aeroblue;
+    &:focus {
+      outline: none;
+    }
+  }
+}
