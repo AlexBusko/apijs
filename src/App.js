@@ -1,6 +1,6 @@
 import './App.scss';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   NavLink
@@ -13,7 +13,7 @@ import GitHub from "./components/GitHub/github"
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/">
         <header className="App-header">
 
           <NavLink to="/twitter" activeClassName="active-nav" className="nav">Twitter</NavLink>
