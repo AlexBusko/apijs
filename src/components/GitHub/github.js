@@ -42,7 +42,7 @@ const GitHub = () => {
     }
 
     const handleSubmit = (e) => {
-        fetch(`http://api.github.com/users/${userInput}`)
+        fetch(`https://api.github.com/users/${userInput}`)
             .then(res => res.json())
             .then(data => {
                 if (data.message) {
