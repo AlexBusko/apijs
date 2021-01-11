@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/apijs/static/css/main.0c4b6b94.chunk.css",
-    "main.js": "/apijs/static/js/main.b4c2a57c.chunk.js",
-    "main.js.map": "/apijs/static/js/main.b4c2a57c.chunk.js.map",
+    "main.js": "/apijs/static/js/main.f6442f87.chunk.js",
+    "main.js.map": "/apijs/static/js/main.f6442f87.chunk.js.map",
     "runtime-main.js": "/apijs/static/js/runtime-main.4bf4275b.js",
     "runtime-main.js.map": "/apijs/static/js/runtime-main.4bf4275b.js.map",
-    "static/js/2.5968f438.chunk.js": "/apijs/static/js/2.5968f438.chunk.js",
-    "static/js/2.5968f438.chunk.js.map": "/apijs/static/js/2.5968f438.chunk.js.map",
+    "static/js/2.92abd167.chunk.js": "/apijs/static/js/2.92abd167.chunk.js",
+    "static/js/2.92abd167.chunk.js.map": "/apijs/static/js/2.92abd167.chunk.js.map",
     "static/js/3.4da49244.chunk.js": "/apijs/static/js/3.4da49244.chunk.js",
     "static/js/3.4da49244.chunk.js.map": "/apijs/static/js/3.4da49244.chunk.js.map",
     "index.html": "/apijs/index.html",
     "static/css/main.0c4b6b94.chunk.css.map": "/apijs/static/css/main.0c4b6b94.chunk.css.map",
-    "static/js/2.5968f438.chunk.js.LICENSE.txt": "/apijs/static/js/2.5968f438.chunk.js.LICENSE.txt"
+    "static/js/2.92abd167.chunk.js.LICENSE.txt": "/apijs/static/js/2.92abd167.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4bf4275b.js",
-    "static/js/2.5968f438.chunk.js",
+    "static/js/2.92abd167.chunk.js",
     "static/css/main.0c4b6b94.chunk.css",
-    "static/js/main.b4c2a57c.chunk.js"
+    "static/js/main.f6442f87.chunk.js"
   ]
 }
